@@ -9,3 +9,5 @@
 Чтобы посмотреть CSS стили, необходимо зайти в директорию: https://github.com/shinadsu/laravel-site/blob/main/resources/css/app.css
 
 Чтобы посмотреть js, необходимо зайти в директорию: https://github.com/shinadsu/laravel-site/tree/main/resources/js
+
+Чтобы посмотреть database, необходимо зайти в директорию: https://github.com/shinadsu/laravel-site/tree/main/database/migrations
