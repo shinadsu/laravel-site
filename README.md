@@ -13,3 +13,5 @@
 Чтобы посмотреть database, необходимо зайти в директорию: https://github.com/shinadsu/laravel-site/tree/main/database/migrations
 
 Чтобы посмотреть Routers, необходимо зайти в директорию: https://github.com/shinadsu/laravel-site/blob/main/routes/web.php
+
+Проект несет в себе лишь посыл того, что и с чем яумею работать, конкретного деплоя и продвижения я делать не собираюсь. Проект будет дорабатываться по мере моих знаний
