@@ -11,3 +11,5 @@
 Чтобы посмотреть js, необходимо зайти в директорию: https://github.com/shinadsu/laravel-site/tree/main/resources/js
 
 Чтобы посмотреть database, необходимо зайти в директорию: https://github.com/shinadsu/laravel-site/tree/main/database/migrations
+
+Чтобы посмотреть Routers, необходимо зайти в директорию: https://github.com/shinadsu/laravel-site/blob/main/routes/web.php
